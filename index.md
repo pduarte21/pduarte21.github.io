@@ -3,15 +3,19 @@ title: Home
 ---
 ## Research Interests
 
-My research interests focus on the security of modern software delivery
-pipelines, particularly in settings where the execution environment cannot be
-fully trusted.
+My research interests lie at the intersection of programming languages,
+formal methods, and secure and dependable systems, grounded in systems
+security and cryptography.
 
-Key areas of interest include:
-- secure execution of CI/CD pipelines,
-- software supply-chain security,
-- trusted execution environments (TEEs),
-- formal methods for reasoning about security properties.
+I am particularly interested in:
+- formal verification of security, correctness, and reliability properties,
+- programming languages, compiler-level abstractions, and semantics,
+- functional programming and verification-oriented design,
+- cryptographic and system-level mechanisms for building trustworthy systems.
+
+Currently, my work applies these interests to the problem of secure execution
+in modern CI/CD pipelines, where untrusted infrastructure, automation, and
+software supply-chain risks intersect.
 
 ---
 
